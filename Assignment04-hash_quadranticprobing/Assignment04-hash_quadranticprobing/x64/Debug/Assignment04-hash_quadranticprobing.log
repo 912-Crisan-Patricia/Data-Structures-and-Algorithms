@@ -1,0 +1,3 @@
+﻿  Map.cpp
+C:\Users\Patri-PC\Desktop\MATERII UBB\1\II semester\Data Structures and Algorithms\Interfaces\lab4-map-hashable with quadrantic probing\Map.cpp(12,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Assignment04-hash_quadranticprobing.vcxproj -> C:\Users\Patri-PC\Desktop\MATERII UBB\1\II semester\Data Structures and Algorithms\projects\Assignment04-hash_quadranticprobing\x64\Debug\Assignment04-hash_quadranticprobing.exe
